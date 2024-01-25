@@ -1,0 +1,15 @@
+{
+  "name": "spw24",
+  "version": "1.0.0",
+  "description": "1. create folder\r 2. Open folder in vs code\r 3. Create views folder with at least 1 file in it which is .ejs\r 4. Creaate a file called index.js which is the brains of the app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
